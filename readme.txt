@@ -12,4 +12,3 @@ step2) run airregister_user.sql file on mysql workbench
 step3) run airregister_ticket.sql file on mysql workbench
 step4) run airregister_routines.sql file on mysql workbench
 
-thank you for downloading
