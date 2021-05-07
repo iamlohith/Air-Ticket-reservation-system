@@ -84,7 +84,7 @@ def updateuser():
                 clr()
             else:
                 Label(top2, text="").pack()
-                checkP.config(text="USERNAME NOT FOUND ON DATABASE", fg="red", font=label_font)
+                checkP.config(text="USERNAME NOT FOUND iN DATABASE", fg="red", font=label_font)
                 top2.update()
                 time.sleep(2)
                 checkP.config(text="")
