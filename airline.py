@@ -17,7 +17,7 @@ def gen():
     Label(top4, text="").pack()
     frame = Frame(top4)
     frame.pack()
-    l1 = Label(frame, text="TICKET NO", font=label_font)
+    l1 = Label(frame, text=" enter TICKET NO", font=label_font)
     l1.grid(row=0, column=0)
     l2 = Label(frame, text="PASSPORT NO", font=label_font)
     l2.grid(row=0, column=1)
